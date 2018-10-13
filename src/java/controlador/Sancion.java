@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package modelo.usuario;
+package controlador;
 
 /**
  *
- * @author user
+ * @author Clara Villadiego
  */
-public class EmpleadoDTO {
+public class Sancion {
     
 }
